@@ -1,7 +1,7 @@
 ---
 ---
 
-# LeoTungAnhDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Our research addresses challenges in federated and distributed machine learning, particularly in wireless networks.
 
 
 
