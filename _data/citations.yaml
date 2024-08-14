@@ -1,3 +1,64 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-[]
+- id: doi:10.1007/s11036-024-02316-w
+  title: Distributionally Robust Federated Learning for Mobile Edge Networks
+  authors:
+  - Long Tan Le
+  - Tung-Anh Nguyen
+  - Tuan-Dung Nguyen
+  - Nguyen H. Tran
+  - Nguyen Binh Truong
+  - Phuong L. Vo
+  - Bui Thanh Hung
+  - Tuan Anh Le
+  publisher: Mobile Networks and Applications
+  date: '2024-05-03'
+  link: https://doi.org/gt62nh
+  orcid: 0009-0000-0664-0218
+  plugin: orcid.py
+  file: orcid_tunganh.yaml
+- id: doi:10.1109/TNET.2024.3423780
+  title: Federated PCA on Grassmann Manifold for IoT Anomaly Detection
+  authors:
+  - Tung-Anh Nguyen
+  - Long Tan Le
+  - Tuan Dung Nguyen
+  - Wei Bao
+  - Suranga Seneviratne
+  - Choong Seon Hong
+  - Nguyen H. Tran
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2024-01-01'
+  link: https://doi.org/gt62nj
+  orcid: 0009-0000-0664-0218
+  plugin: orcid.py
+  file: orcid_tunganh.yaml
+- id: doi:10.1109/infocom53939.2023.10229026
+  title: Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks
+  authors:
+  - Tung-Anh Nguyen
+  - Jiayu He
+  - Long Tan Le
+  - Wei Bao
+  - Nguyen H. Tran
+  publisher: IEEE INFOCOM 2023 - IEEE Conference on Computer Communications
+  date: '2023-05-17'
+  link: https://doi.org/gt62kq
+  orcid: 0009-0000-0664-0218
+  plugin: orcid.py
+  file: orcid_tunganh.yaml
+- id: doi:10.23919/elinfocom.2018.8330676
+  title: Dynamic mobile cloudlet clustering for fog computing
+  authors:
+  - Yuanjie Li
+  - Nguyen Tung Anh
+  - Azhar Saeed Nooh
+  - Kuwon Ra
+  - Minho Jo
+  publisher: 2018 International Conference on Electronics, Information, and Communication
+    (ICEIC)
+  date: '2018-01-01'
+  link: https://doi.org/gt62nk
+  orcid: 0009-0000-0664-0218
+  plugin: orcid.py
+  file: orcid_tunganh.yaml
