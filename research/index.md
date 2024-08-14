@@ -13,7 +13,7 @@ Our current research interests are LLM, Federated Learning and Time Series Predi
 
 ## Highlighted
 
-{% include citation.html lookup="Federated PCA on Grassmann Manifold for IoT Anomaly Detection" style="rich" %}
+<!-- {% include highlight.html lookup="Federated PCA on Grassmann Manifold for IoT Anomaly Detection" style="rich" %} -->
 
 {% include section.html %}
 
