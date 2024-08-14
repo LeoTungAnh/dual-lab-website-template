@@ -13,7 +13,7 @@ Our current research interest are Large Language Models, Federated Learning and 
 
 ## Highlighted
 
-<!-- {% include citation.html lookup="Federated PCA on Grassmann Manifold for IoT Anomaly Detection" style="rich" %} -->
+{% include citation.html lookup="Federated PCA on Grassmann Manifold for IoT Anomaly Detection" style="rich" %}
 
 {% include section.html %}
 
